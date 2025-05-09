@@ -1,3 +1,4 @@
+# THIS REPOSITORY IS NO LONGER ACTIVELY MAINTAINED, IT HAS MOVED TO https://codeberg.org/bsdpot/minipot
 # minipot
 
 This project is a collection of configuration files that allows to emulate a nomad cluster in one server/VM
